@@ -1,0 +1,80 @@
+
+body {
+    font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    background-color: rgb(84,25,16);
+    
+  }
+  
+  h1 {
+   color: #373fff;
+  }
+  
+  .calculateBtn{
+    margin-left: 30%;
+    background-color: rgb(173,21,58);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 5%;
+  }
+  
+  .bill{
+   box-shadow: 0px 0px 8px grey;
+  }
+  
+  .service{
+  box-shadow: 0px 0px 8px 
+  }
+  
+  .people{
+  box-shadow: 0px 0px 8px 
+  }
+  
+  .container{
+  width: 30%;
+  /* height: 80vh; */
+  background-color: white;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  }
+  .tipC{
+  text-align: center; 
+  color: white;
+  background-color: rgb(31,4,12);
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  }
+  
+  .tipP{
+  margin-top: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 0;
+  padding-right: 0; 
+  }
+   
+   
+  .formContainer{
+  padding: 10%;
+  }
+  
+  .outcome{
+  width: 100%;
+  height: 10vh;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  background-color: rgb(31,4,12);
+  color: white;
+  font-size: 30px;
+  text-align:center;
+  border-top-width: solid 10px;
+  margin: 0;
+  font-family: 'Pacifico', cursive;
+  }
